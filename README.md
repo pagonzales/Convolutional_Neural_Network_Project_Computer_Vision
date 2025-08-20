@@ -23,6 +23,8 @@ A certain company wants to create an algorithm that detects whether or not the i
   - Then apply max pooling to the convolutional layer
   - Add a second convolutional layer
   - Next, apply flattening
+  - Create a full connection layer
+  - Finally, create an output layer
 - Compile the ANN
   - Use 'adam' as optimizer 'binary_crossentropy' as loss function and 'accuracy' as metrics
   - Train the model with batch size = 32 and epochs = 100
