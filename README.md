@@ -1,2 +1,3 @@
-# Convolutional_Neural_Network_Project_Computer_Vision
-This is a Deep Learning project focusing on the use of Convolutional Neural Network algorithm to detect an image using a dataset.
+# Convolutional Neural Network Project: Computer Vision/Image Detection Project
+## Problem
+A certain company wants to create an algorithm that detects whether or not the image is a Dog or a Cat. Using a Deep Learning Algorithm with Convolutional Neural Network Architecture, we will try to solve this problem.
