@@ -30,3 +30,7 @@ A certain company wants to create an algorithm that detects whether or not the i
   - Train the model with batch size = 32 and epochs = 100
 - Finally, Test the model using the test data
   - Create Confusion Matrix
+## Project Insights
+
+
+## Final conclusion
