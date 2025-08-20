@@ -19,9 +19,10 @@ A certain company wants to create an algorithm that detects whether or not the i
   - Preprocess the test set but use only the feature scaling to avoid data leakage
 - Build the Convolutional Neural Network (CNN) Algorithm
   - Start with initialising the CNN using the tensorflow and keras.
-  - Then, create a convolutional layer
-  - Then, pool the convolutional layer
-  - 
+  - Then create a convolutional layer
+  - Then apply max pooling to the convolutional layer
+  - Add a second convolutional layer
+  - Next, apply flattening
 - Compile the ANN
   - Use 'adam' as optimizer 'binary_crossentropy' as loss function and 'accuracy' as metrics
   - Train the model with batch size = 32 and epochs = 100
